@@ -1,0 +1,283 @@
+Licitación
+ID:
+757-103-LE26
+Diseño material audiovisual Prevención Suicidio
+Responsable de esta licitación:
+SUBSECRETARIA DE SALUD PUBLICA
+Fecha de Cierre:
+04-11-2026 18:00:00
+Reclamos recibidos por incumplir plazo de pago:
+74
+Este número indica los reclamos recibidos por esta institución desde los últimos
+12 meses hasta el día de ayer.
+Recuerde interpretar esta información considerando la cantidad de licitaciones y órdenes de compra que esta institución genera en el Mercado Público.
+Descargar ficha
+Faltan
+9
+días para que cierre esta licitación.
+Descarga los datos de esta licitación en
+formato CSV
+.
+Más información
+.
+Descarga los datos de esta licitación en
+formato JSON
+. Más información en
+API Mercado Público
+.
+Descarga los datos de esta licitación en
+formato OCDS
+. Conoce el estandar en el
+Sitio Oficial OCDS
+.
+Productos o servicios
+1
+Servicios Audio Visuales
+1
+Unidad
+Cod:
+80161507
+servicio de diseño y producción de material audiovisual para adolescentes y jóvenes en prevención del suicidio.
+Contenido de las bases
+1.
+Características de la licitación
+2.
+Organismo demandante
+3.
+Etapas y plazos
+4.
+Antecedentes para incluir en la oferta
+5.
+Requisitos para contratar al proveedor adjudicado
+6.
+Criterios de evaluación
+7.
+Montos y duración del contrato
+8.
+Garantías requeridas
+9.
+Requerimientos técnicos y otras cláusulas
+1. Características de la licitación
+Nombre de la licitación:
+Diseño material audiovisual Prevención Suicidio
+Estado:
+Publicada
+Descripción:
+Diseño y producción de material audiovisual comunicacional que contemple una idea creativa, con mensaje preventivo, junto a la producción de piezas audiovisuales, destinados a promover la prevención del suicidio en adolescentes y jóvenes.
+Tipo de licitación:
+Pública-Licitación Pública igual o superior a 100 UTM e inferior a 1.000 UTM (LE)
+Tipo de convocatoria:
+ABIERTO
+Moneda:
+Peso Chileno
+Etapas del proceso de apertura:
+Una Etapa
+Contrato
+Se requerirá suscripción de contrato
+Toma de razón por Contraloría:
+No requiere Toma de Razón por Contraloría
+Publicidad de ofertas técnicas:
+Las ofertas técnicas serán de público conocimiento una vez realizada la apertura técnica de las ofertas.
+Subir
+2. Organismo demandante
+Razón social:
+SUBSECRETARIA DE SALUD PUBLICA
+Unidad de compra:
+Subsecretaría de Salud Pública
+R.U.T.:
+61.601.000-k
+Dirección:
+Mac-Iver 541
+Comuna:
+Santiago Centro
+Región en que se genera la licitación:
+Región Metropolitana de Santiago
+Subir
+3. Etapas y plazos
+Fecha de cierre de recepción de la oferta:
+04-11-2026 18:00:00
+Fecha de Publicación:
+23-10-2026 16:37:52
+Fecha inicio de preguntas:
+24-10-2026 13:00:00
+Fecha final de preguntas:
+29-10-2026 18:00:00
+Fecha de publicación de respuestas:
+30-10-2026 17:00:00
+Fecha de acto de apertura técnica:
+04-11-2026 18:01:00
+Fecha de acto de apertura económica (referencial):
+04-11-2026 18:01:00
+Fecha de Adjudicación:
+16-12-2026 16:15:00
+Fecha de entrega en soporte fisico
+No hay información
+Fecha estimada de firma de contrato
+No hay información
+Tiempo estimado de evaluación de ofertas
+No hay información
+Subir
+4. Antecedentes para incluir en la oferta
+Adicionalmente, todos los proveedores para ofertar en esta licitación, deberán obligatoriamente confirmar y firmar electrónicamente la Declaración Jurada de Requisitos para Ofertar.
+Documentos Administrativos
+1.-
+El contenido de la Propuesta será el siguiente:
+a)	Antecedentes del oferente y otros documentos.
+a.1)	Proponente Persona Natural debe acompañar:
+1.	Formato Completo de Identificación del Oferente, contenido en el Anexo Nº2-A de las presentes Bases.
+2.	Declaración jurada simple, la cual puede ser ingresada desde la plataforma www.mercadopublico.cl.
+3.	Fotocopia simple de la cédula de identidad del proponente.
+a.2) Proponente Persona Jurídica debe acompañar:
+1.	Formato Completo de identificación del Oferente, contenido en el Anexo Nº2-B de las presentes Bases.
+2.	Declaración Jurada Simple, la cual puede ser ingresada desde la plataforma www.mercadopublico.cl.
+3.	Fotocopia simple de la cédula de identidad del (o los) representante(s) legal(es).
+4.	Fotocopia simple de la escritura pública o acto administrativo, según corresponda, en la que conste la personería del (o los) representa (s) legal (es) del proponente.
+5.	Fotocopia simple del RUT del proponente.
+a.3) Otros antecedentes aplicables para ambos tipos de oferentes.
+En el caso de Unión Temporal de Proveedores se deberá acompañar el instrumento en que se formaliza la unión el cual, a lo menos, debe establecer la solidaridad entre las partes respecto de todas las obligaciones que se generen con el MINISTERIO y el nombramiento de un representante o apoderado común con poderes suficientes. La vigencia de esta unión temporal de proveedores no podrá ser inferior a la del contrato adjudicado. Sin perjuicio de las demás disposiciones legales y reglamentarias que resulten aplicables, el acuerdo en que conste la unión temporal deberá materializarse según lo prescrito en el artículo 180 del D.S. N°661/2024.
+Documentos Técnicos
+1.-
+La propuesta técnica se deberá presentar conforme a lo establecido en las respectivas Bases Técnicas, señaladas en el apartado III de las presentes Bases.
+Documentos Económicos
+1.-
+La oferta económica se deberá presentar de acuerdo con lo establecido en las respectivas Condiciones Económicas contenidas en el apartado II de las presentes Bases y en el formato correspondiente al Anexo N°4 de estas Bases.
+•	Todos los productos y servicios que comprometa el oferente deberán ser considerados en su presupuesto informado en el anexo económico y en el cuadro de costos, desde la producción, desarrollo y soporte hasta su ejecución o publicación.
+Subir
+5. Requisitos para contratar al proveedor adjudicado
+Persona natural
+Encontrarse hábil en el Registro de Proveedores, registro que verificará NO haber incurrido en las siguientes causales de inhabilidad:
+1
+.-
+Haber sido condenado por cualquiera de los delitos de cohecho contemplados en el título V del Libro Segundo del Código Penal.
+2
+.-
+Registrar una o más deudas tributarias por un monto total superior a 500 UTM por más de un año, o superior a 200 UTM e inferior a 500 UTM por un período superior a 2 años, sin que exista un convenio de pago vigente. En caso de encontrarse pendiente juicio sobre la efectividad de la deuda, esta inhabilidad regirá una vez que se encuentre firme o ejecutoriada la respectiva resolución.
+3
+.-
+Registrar deudas previsionales o de salud por más de 12 meses por sus trabajadores dependientes, lo que se acreditará mediante certificado de la autoridad competente.
+4
+.-
+La presentación al Registro Nacional de Proveedores de uno o más documentos falsos, declarado así por sentencia judicial ejecutoriada.
+5
+.-
+Haber sido declarado en quiebra por resolución judicial ejecutoriada.
+6
+.-
+Haber sido eliminado o encontrarse suspendido del Registro Nacional de Proveedores por resolución fundada de la Dirección de Compras.
+7
+.-
+Haber sido condenado por prácticas antisindicales o infracción a los derechos fundamentales del trabajador.
+8
+.-
+Registrar condenas asociadas a responsabilidad penal jurídica (incumplimiento artículo 10, Ley 20.393).
+Documentos persona natural
+- Fotocopia Legalizada de Cédula de Identidad
+- Declaración jurada acreditando que no se encuentra afecto al art. 4 inciso 6 de la ley 19.886, en el cual se establece que "ningún órgano de la administración del Estado podrá suscribir contratos administrativos de provisión de bienes y servicios con los funcionarios directivos del mismo órgano o empresa, ni con personas unidas a ellos por los vínculos de parentesco."
+Persona jurídica
+Encontrarse hábil en el Registro de Proveedores, registro que verificará NO haber incurrido en las siguientes causales de inhabilidad:
+1
+.-
+Haber sido condenado por cualquiera de los delitos de cohecho contemplados en el título V del Libro Segundo del Código Penal.
+2
+.-
+Registrar una o más deudas tributarias por un monto total superior a 500 UTM por más de un año, o superior a 200 UTM e inferior a 500 UTM por un período superior a 2 años, sin que exista un convenio de pago vigente. En caso de encontrarse pendiente juicio sobre la efectividad de la deuda, esta inhabilidad regirá una vez que se encuentre firme o ejecutoriada la respectiva resolución.
+3
+.-
+Registrar deudas previsionales o de salud por más de 12 meses por sus trabajadores dependientes, lo que se acreditará mediante certificado de la autoridad competente.
+4
+.-
+La presentación al Registro Nacional de Proveedores de uno o más documentos falsos, declarado así por sentencia judicial ejecutoriada.
+5
+.-
+Haber sido declarado en quiebra por resolución judicial ejecutoriada.
+6
+.-
+Haber sido eliminado o encontrarse suspendido del Registro Nacional de Proveedores por resolución fundada de la Dirección de Compras.
+7
+.-
+Haber sido condenado por prácticas antisindicales o infracción a los derechos fundamentales del trabajador.
+8
+.-
+Registrar condenas asociadas a responsabilidad penal jurídica (incumplimiento artículo 10, Ley 20.393).
+Documentos persona jurídica
+- Fotocopia Legalizada del Rut de la Empresa
+- Declaración jurada acreditando que no se encuentra afecto al art. 4 inciso 6 de la ley 19.886, en el cual se establece que "ningún órgano de la administración del Estado podrá suscribir contratos administrativos de provisión de bienes y servicios con los funcionarios directivos del mismo órgano o empresa, ni con personas unidas a ellos por los vínculos de parentesco."
+- Certificado de Vigencia de la Sociedad
+-
+(1)
+Certificado de Boletín de Informes Comerciales
+-
+(1)
+Certificado de Quiebras/Convenio Judicial
+Subir
+6. Criterios de evaluación
+Ítem
+Observaciones
+Ponderación
+1
+Briefing
+De acuerdo a lo establecido en el artículo 21° de las Bases de licitación.
+40%
+2
+Cumplimiento de los requisitos
+De acuerdo a lo establecido en el artículo 21° de las Bases de licitación.
+2%
+3
+Proyectos realizados en Producción de Contenidos A
+De acuerdo a lo establecido en el artículo 21° de las Bases de licitación.
+15%
+4
+Precio
+X= Precio mínimo ofertado * 100 /Precio Oferta X
+40%
+5
+Programa de Integridad
+De acuerdo a lo establecido en el artículo 21° de las Bases de licitación.
+3%
+Subir
+7. Montos y duración del contrato
+Estimación en base a:
+Presupuesto Disponible
+Fuente de financiamiento:
+Subsecretaría de Salud Pública
+Contrato con Renovación:
+NO
+Observaciones
+Sin observaciones
+Tiempo del Contrato
+30 Días
+Plazos de pago:
+30 días contra la recepción conforme de la factura
+Opciones de pago:
+Transferencia Electrónica
+Nombre de responsable de pago:
+Angélica Castro
+e-mail de responsable de pago:
+acastro@minsal.cl
+Prohibición de subcontratación:
+Se permite subcontratación
+Subir
+8. Garantías requeridas
+No hay información de Garantías
+Subir
+9. Requerimientos técnicos y otras cláusulas
+Cláusula de Readjudicación
+Si el respectivo adjudicatario se desiste de su oferta, no entrega los antecedentes legales para contratar y/o la garantía de fiel cumplimiento, no firma el contrato o no se inscribe en Chileproveedores en los plazos que se establecen en las presentes bases, la entidad licitante podrá dejar sin efecto la adjudicación y seleccionar al oferente que, de acuerdo al resultado de la evaluación le siga en puntaje, y así sucesivamente, a menos que, de acuerdo a los intereses del servicio, se estime conveniente declarar desierta la licitación.
+Resolución de Empates
+En caso de presentarse un empate entre 2 o más ofertas, ello se resolverá adjudicando al oferente que hubiese obtenido el mayor puntaje en el criterio “BRIEFING”. Si aplicando la fórmula anterior aún persiste el empate entre oferentes, dicha situación se resolverá adjudicando al oferente que hubiese obtenido el mayor puntaje en el sub-criterio “
+Proyectos realizados en Producción de Contenidos audiovisuales
+”. De persistir el empate, se adjudicará al oferente que hubiese obtenido el mayor puntaje en el sub-criterio "USTED DEBE COMPLETAR ESTE CAMPO” y, finalmente, de continuar aun así empatados los oferentes, se adjudicará al oferente que hubiese obtenido el mayor puntaje en el sub-criterio “USTED DEBE COMPLETAR ESTE CAMPO”.
+Presentación de antecedentes omitidos por los oferentes
+En virtud del Artículo 56 del Decreto N°661 del Ministerio de Hacienda del año 2024, durante la etapa de evaluación la Subsecretaría podrá solicitar a los oferentes:
+1.         Salvar los errores u omisiones formales en que ha incurrido. No se considerará error formal errores en el precio de la oferta.
+2.         La presentación de certificaciones o antecedentes que hayan omitido presentar al momento de efectuarla la oferta, siempre que dichas certificaciones o antecedentes se hayan producido u obtenido con anterioridad al vencimiento del plazo para presentar ofertas; y,
+3.         La presentación de certificaciones o antecedentes que se refieran a situaciones no mutables entre el vencimiento del plazo para presentar ofertas y el periodo de evaluación de éstas.
+Las rectificaciones de los errores u omisiones detectados y que se solicitan y permiten salvar o subsanar a los oferentes no podrán conferirles a esos oferentes una situación de privilegio respecto de los demás competidores, esto es, en tanto no se afecten los principios de estricta sujeción a las bases y de igualdad de los oferentes, y se informe de dicha solicitud al resto de los oferentes a través del Sistema de Información.
+En estos casos, la Subsecretaría comunicará al oferente las omisiones detectadas a través del Sistema de Información y le concederá un plazo fatal de dos días para que las subsane. Si los instrumentos agregados evitan la inadmisibilidad de la oferta respectiva, esta deberá calificarse con el puntaje mínimo en el criterio “Cumplimiento de Requisitos de Presentación” o “Presentación y completitud de Antecedentes” descrito en el Artículo 21º de las presentes Bases.
+Tratándose de oferentes inscritos en el Registro Electrónico de Proveedores del Estado, no será causal de inadmisibilidad la omisión de documentos administrativos o antecedentes que estuvieren disponibles y vigentes en el portal
+www.mercadopublico.cl
+Subir
+10. Demandas ante el Tribunal de Contratación Pública
+No cuenta con demandas ante el Tribunal de Contratación Pública.
+Subir
+x

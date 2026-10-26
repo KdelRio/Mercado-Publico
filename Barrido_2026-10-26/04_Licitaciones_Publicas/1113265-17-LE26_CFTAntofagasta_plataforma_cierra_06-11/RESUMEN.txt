@@ -1,0 +1,21 @@
+RESUMEN – 1113265-17-LE26
+============================================================
+Recomendación: DECIDIR
+Cierre: 06-11-2026 15:09
+Código: 1113265-17-LE26
+Tipo: Licitación LE
+Organismo: CFT Estatal Región de Antofagasta
+Qué piden: Adquisición e implementación de plataforma de gestión estratégica de la permanencia estudiantil + 12 meses de operación.
+Qué entregamos: Plataforma web a medida (alertas de deserción, seguimiento, dashboards) + operación 12 meses.
+Presupuesto: No publicado (LE: 100-1.000 UTM)
+Neto sugerido: Ver bases
+Cómo evalúan: Calidad técnica 30 % · Requisitos 5 % · Experiencia 15 % · Plazo 5 % · Precio 30 % · Asistencia técnica 15 %
+Plazo: Implementación + 12 meses (prorrogable 12)
+Mantención: Sí: 12 meses de operación + posible prórroga (amarra 1-2 años)
+Documentos a subir: Bases (no leídas)
+Garantía / multas / pago: Garantía fiel cumplimiento 5 % · pago 30 días
+Viajes / impresión: Antofagasta: revisar si exigen capacitación presencial
+Riesgos: Puede estar pensada para un SaaS existente. Mantención de 12-24 meses (regla: solo si es mínima y bien pagada). Experiencia 0/15.
+Qué se leyó: Ficha completa. Bases NO (captcha).
+
+Falta: bases y anexos (piden captcha; no los puedo descargar). Ari: descárgalos en bases\ y avísame para llenar anexos.

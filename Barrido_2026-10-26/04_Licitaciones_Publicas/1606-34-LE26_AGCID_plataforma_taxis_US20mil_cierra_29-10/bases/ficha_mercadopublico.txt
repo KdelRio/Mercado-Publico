@@ -1,0 +1,301 @@
+Licitación
+ID:
+1606-34-LE26
+Consultoría para la digitalización de rutas de taxis colectivos. Proyecto Apoyo a la estrategia Chilena de transporte sostenible - CLETS Financiado por la GEF e implementado por CAF
+Responsable de esta licitación:
+AGENCIA CHILENA DE COOPERACION INTERNACIONAL PARA EL DESARROLLO
+Fecha de Cierre:
+29-10-2026 15:00:00
+Reclamos recibidos por incumplir plazo de pago:
+1
+Este número indica los reclamos recibidos por esta institución desde los últimos
+12 meses hasta el día de ayer.
+Recuerde interpretar esta información considerando la cantidad de licitaciones y órdenes de compra que esta institución genera en el Mercado Público.
+Descargar ficha
+Faltan
+3
+días para que cierre esta licitación.
+Descarga los datos de esta licitación en
+formato CSV
+.
+Más información
+.
+Descarga los datos de esta licitación en
+formato JSON
+. Más información en
+API Mercado Público
+.
+Descarga los datos de esta licitación en
+formato OCDS
+. Conoce el estandar en el
+Sitio Oficial OCDS
+.
+Productos o servicios
+1
+Asesorías en planificación estratégica
+1
+Unidad
+Cod:
+80101504
+Servicio de consultoría para la digitalización de rutas de taxis colectivos para el Proyecto CLETS, financiado por la GEF e Implementado por CAF, según bases administrativas adjuntas.
+Contenido de las bases
+1.
+Características de la licitación
+2.
+Organismo demandante
+3.
+Etapas y plazos
+4.
+Antecedentes para incluir en la oferta
+5.
+Requisitos para contratar al proveedor adjudicado
+6.
+Criterios de evaluación
+7.
+Montos y duración del contrato
+8.
+Garantías requeridas
+9.
+Requerimientos técnicos y otras cláusulas
+1. Características de la licitación
+Nombre de la licitación:
+Consultoría para la digitalización de rutas de taxis colectivos. Proyecto Apoyo a la estrategia Chilena de transporte sostenible - CLETS Financiado por la GEF e implementado por CAF
+Estado:
+Publicada
+Descripción:
+Diseñar, desarrollar, probar, sistematizar e implementar una plataforma digital interoperable, compuesta por un Módulo Operador y un Módulo Ministerio, que permita administrar el ciclo completo de registro, revisión, validación y actualización de digitalización de recorridos y atributos operacionales de los servicios de taxis colectivos, integrándose con las plataformas institucionales existentes y validando su funcionamiento mediante una implementación piloto.
+Tipo de licitación:
+Pública-Licitación Pública igual o superior a 100 UTM e inferior a 1.000 UTM (LE)
+Tipo de convocatoria:
+ABIERTO
+Moneda:
+Dólar Americano
+Etapas del proceso de apertura:
+Una Etapa
+Contrato
+Se requerirá suscripción de contrato
+Toma de razón por Contraloría:
+No requiere Toma de Razón por Contraloría
+Publicidad de ofertas técnicas:
+Las ofertas técnicas serán de público conocimiento una vez realizada la apertura técnica de las ofertas.
+Subir
+2. Organismo demandante
+Razón social:
+AGENCIA CHILENA DE COOPERACION INTERNACIONAL PARA EL DESARROLLO
+Unidad de compra:
+AGCID
+R.U.T.:
+60.108.000-1
+Dirección:
+Teatinos 180, piso 8
+Comuna:
+Santiago
+Región en que se genera la licitación:
+Región Metropolitana de Santiago
+Subir
+3. Etapas y plazos
+Fecha de cierre de recepción de la oferta:
+29-10-2026 15:00:00
+Fecha de Publicación:
+08-10-2026 12:45:00
+Fecha inicio de preguntas:
+08-10-2026 15:01:00
+Fecha final de preguntas:
+14-10-2026 9:00:00
+Fecha de publicación de respuestas:
+26-10-2026 19:00:00
+Fecha de acto de apertura técnica:
+29-10-2026 15:01:00
+Fecha de acto de apertura económica (referencial):
+29-10-2026 15:01:00
+Fecha de Adjudicación:
+19-11-2026 19:00:00
+Fecha de entrega en soporte fisico
+No hay información
+Fecha estimada de firma de contrato
+No hay información
+Tiempo estimado de evaluación de ofertas
+No hay información
+Subir
+4. Antecedentes para incluir en la oferta
+Adicionalmente, todos los proveedores para ofertar en esta licitación, deberán obligatoriamente confirmar y firmar electrónicamente la Declaración Jurada de Requisitos para Ofertar.
+Documentos Administrativos
+1.-
+Anexos N.º 1, 2, 6, 6.1 y 8, según bases de licitación
+Los anexos referidos deben ser ingresados a través del Sistema de Información (www.mercadopublico.cl), en la sección Anexos Administrativos.
+En caso de que no se presenten los Anexos N.°1, N.°2 y N.°8, y si corresponde, los anexo N.°6 y N.°6.1, la oferta será declarada inadmisible.
+En el caso de una unión temporal de proveedores, los Anexos N.°1 y N.°2 deberán ser completados por cada uno de los representantes legales de las personas jurídicas que la integren, respecto de la situación particular de su entidad.
+Documentos Técnicos
+1.-
+Anexo N.°4. Oferta Técnica.
+Si no se presenta el anexo N°4 la oferta será declarada inadmisible.
+Documentos Económicos
+1.-
+Anexo N.°5. Oferta económica
+El anexo referido debe ser ingresado a través del Sistema de Información (www.mercadopublico.cl), en la sección Anexos Económicos.
+En caso de que no se presente el Anexo Económico o que la oferta se presente en una moneda distinta a la requerida en dicho anexo, la oferta será declarada inadmisible.
+Subir
+5. Requisitos para contratar al proveedor adjudicado
+Persona natural
+Encontrarse hábil en el Registro de Proveedores, registro que verificará NO haber incurrido en las siguientes causales de inhabilidad:
+1
+.-
+Haber sido condenado por cualquiera de los delitos de cohecho contemplados en el título V del Libro Segundo del Código Penal.
+2
+.-
+Registrar una o más deudas tributarias por un monto total superior a 500 UTM por más de un año, o superior a 200 UTM e inferior a 500 UTM por un período superior a 2 años, sin que exista un convenio de pago vigente. En caso de encontrarse pendiente juicio sobre la efectividad de la deuda, esta inhabilidad regirá una vez que se encuentre firme o ejecutoriada la respectiva resolución.
+3
+.-
+Registrar deudas previsionales o de salud por más de 12 meses por sus trabajadores dependientes, lo que se acreditará mediante certificado de la autoridad competente.
+4
+.-
+La presentación al Registro Nacional de Proveedores de uno o más documentos falsos, declarado así por sentencia judicial ejecutoriada.
+5
+.-
+Haber sido declarado en quiebra por resolución judicial ejecutoriada.
+6
+.-
+Haber sido eliminado o encontrarse suspendido del Registro Nacional de Proveedores por resolución fundada de la Dirección de Compras.
+7
+.-
+Haber sido condenado por prácticas antisindicales o infracción a los derechos fundamentales del trabajador.
+8
+.-
+Registrar condenas asociadas a responsabilidad penal jurídica (incumplimiento artículo 10, Ley 20.393).
+Documentos persona natural
+- Fotocopia Legalizada de Cédula de Identidad
+- Declaración jurada acreditando que no se encuentra afecto al art. 4 inciso 6 de la ley 19.886, en el cual se establece que "ningún órgano de la administración del Estado podrá suscribir contratos administrativos de provisión de bienes y servicios con los funcionarios directivos del mismo órgano o empresa, ni con personas unidas a ellos por los vínculos de parentesco."
+Persona jurídica
+Encontrarse hábil en el Registro de Proveedores, registro que verificará NO haber incurrido en las siguientes causales de inhabilidad:
+1
+.-
+Haber sido condenado por cualquiera de los delitos de cohecho contemplados en el título V del Libro Segundo del Código Penal.
+2
+.-
+Registrar una o más deudas tributarias por un monto total superior a 500 UTM por más de un año, o superior a 200 UTM e inferior a 500 UTM por un período superior a 2 años, sin que exista un convenio de pago vigente. En caso de encontrarse pendiente juicio sobre la efectividad de la deuda, esta inhabilidad regirá una vez que se encuentre firme o ejecutoriada la respectiva resolución.
+3
+.-
+Registrar deudas previsionales o de salud por más de 12 meses por sus trabajadores dependientes, lo que se acreditará mediante certificado de la autoridad competente.
+4
+.-
+La presentación al Registro Nacional de Proveedores de uno o más documentos falsos, declarado así por sentencia judicial ejecutoriada.
+5
+.-
+Haber sido declarado en quiebra por resolución judicial ejecutoriada.
+6
+.-
+Haber sido eliminado o encontrarse suspendido del Registro Nacional de Proveedores por resolución fundada de la Dirección de Compras.
+7
+.-
+Haber sido condenado por prácticas antisindicales o infracción a los derechos fundamentales del trabajador.
+8
+.-
+Registrar condenas asociadas a responsabilidad penal jurídica (incumplimiento artículo 10, Ley 20.393).
+Documentos persona jurídica
+- Fotocopia Legalizada del Rut de la Empresa
+- Declaración jurada acreditando que no se encuentra afecto al art. 4 inciso 6 de la ley 19.886, en el cual se establece que "ningún órgano de la administración del Estado podrá suscribir contratos administrativos de provisión de bienes y servicios con los funcionarios directivos del mismo órgano o empresa, ni con personas unidas a ellos por los vínculos de parentesco."
+- Certificado de Vigencia de la Sociedad
+-
+(1)
+Certificado de Boletín de Informes Comerciales
+-
+(1)
+Certificado de Quiebras/Convenio Judicial
+Subir
+6. Criterios de evaluación
+Ítem
+Observaciones
+Ponderación
+1
+Criterio Técnico
+Experiencia del oferente en el mercado: 5%;
+Experiencia del oferente en tareas similares: 15%;
+Experiencia laboral del equipo de trabajo: 18%;
+Nivel de desarrollo de la propuesta técnica: 20%;
+Nivel de detalle de la ejecución de tareas en la propuesta técnico-metodologica: 15%;
+Propuesta de plan de trabajo: 10%;
+Criterio de sustentabilidad inclusión laboral: 2%
+85%
+2
+Criterio Económico
+Evaluación de la oferta económica: 10%
+10%
+3
+Criterio Administrativo
+Completitud de la oferta presentada: 3%;
+Programa de integridad por parte de los proveedores: 2%
+5%
+Subir
+7. Montos y duración del contrato
+Estimación en base a:
+Presupuesto Disponible
+Fuente de financiamiento:
+Extrapresupuestario
+Monto Total Estimado:
+20000
+Justificación del monto estimado
+Según Resolución Exenta de AGCID 302, de fecha 07 de octubre del 2026
+Contrato con Renovación:
+NO
+Observaciones
+Sin observaciones
+Tiempo del Contrato
+7 Meses
+Plazos de pago:
+30 días contra la recepción conforme de la factura
+Opciones de pago:
+Transferencia Electrónica
+Nombre de responsable de pago:
+Fabiola Rivas
+e-mail de responsable de pago:
+unidad_adquisiciones@agcid.gob.cl
+Prohibición de subcontratación:
+No permite subcontratación
+Según numeral 11.8 de Cesión y subcontratación de la Resolución Exenta de AGCID 305, de fecha 07 de octubre del 2026
+Subir
+8. Garantías requeridas
+No hay información de Garantías
+Subir
+9. Requerimientos técnicos y otras cláusulas
+Resolución de Empates
+En el evento de que, una vez culminado el proceso de evaluación de ofertas, hubiese dos o más proponentes que hayan obtenido el mismo puntaje máximo, quedando más de uno en condiciones de resultar adjudicados, se optará por aquella oferta que cuente con un mayor puntaje de acuerdo con la siguiente secuencia, con los criterios que resulten aplicables:
+1. Criterio de evaluación “Nivel de detalle de desarrollo de la propuesta técnico-metodológica”.
+2. Criterio de evaluación “Experiencia del oferente en tareas similiares”.
+3. Criterio de evaluación “Evaluación de la oferta económica”.
+Finalmente, si aún persiste el empate, se seleccionará a la propuesta del proveedor que haya ingresado primero su oferta en el portal www.mercadopublico.cl
+Mecanismo para solución de consultas respecto a la adjudicación
+Las consultas sobre la adjudicación deberán realizarse dentro del plazo fatal de 2 días hábiles contados desde la publicación en el Sistema de Información
+www.mercadopublico.cl
+, a través del correo electrónico unidad_
+adquisiciones
+@agcid.gob.cl
+.
+AGCID dispondrá del mismo tiempo indicado precedentemente para dar respuesta a dichas consultas.
+Acreditación de cumplimiento de remuneraciones o cotizaciones de seguridad social
+Durante la vigencia del respectivo contrato el adjudicatario deberá acreditar que no registra saldos insolutos de obligaciones laborales y sociales con sus actuales trabajadores o con trabajadores contratados en los últimos dos años.
+AGCID podrá requerir al adjudicatario, en cualquier momento, los antecedentes que estime necesarios para acreditar el cumplimiento de las obligaciones laborales y sociales antes señaladas.
+En caso de que el adjudicatario registre saldos insolutos de remuneraciones o cotizaciones de seguridad social con sus actuales trabajadores o con trabajadores contratados en los últimos dos años, los primeros estados de pago producto de esta licitación deberán ser destinados al pago de dichas obligaciones, debiendo el adjudicatario acreditar que la totalidad de las obligaciones se encuentran liquidadas al cumplirse la mitad del período de ejecución de las prestaciones, con un máximo de seis meses.
+AGCID exigirá que el adjudicatario proceda a dichos pagos y le presente los comprobantes y planillas que demuestren el total cumplimiento de la obligación. El incumplimiento de estas obligaciones por parte del adjudicatario dará derecho a terminar la relación contractual, pudiendo llamarse a una nueva licitación en la que el adjudicatario referido no podrá participar.
+Presentación de antecedentes omitidos por los oferentes
+AGCID podrá solicitar la presentación de certificaciones o antecedentes que los oferentes hayan omitido presentar al momento de efectuar la oferta, siempre que tales documentos se hayan producido u obtenido con anterioridad al vencimiento del plazo para presentar ofertas, o se refieran a situaciones no mutables entre el vencimiento del plazo para presentar ofertas y el período de evaluación. Tratándose de certificaciones o antecedentes incompletos, se entenderán como no presentados oportunamente y podrá aplicarse lo dispuesto en esta cláusula.
+Para dichas presentaciones de certificaciones o antecedentes, se otorgará un plazo fatal de 48 horas, contados desde su comunicación al oferente por parte de AGCID, la que se informará a través del Sistema de información www.mercadopublico.cl. La responsabilidad de revisar oportunamente dicho sistema durante el período de evaluación recaerá exclusivamente en los respectivos oferentes.
+Pacto de integridad
+El oferente, y posteriormente, el proveedor adjudicado, declara que, por el sólo hecho de participar en la presente licitación, acepta expresamente el presente pacto de integridad, obligándose a cumplir con todas y cada una de las estipulaciones contenidas el mismo, sin perjuicio de las que se señalen en el resto de las bases de licitación y demás documentos integrantes.
+Especialmente, el oferente, y posteriormente, el proveedor adjudicado, acepta suministrar toda la información y documentación que sea considerada necesaria y exigida de acuerdo con las presentes bases de licitación, asumiendo expresamente los siguientes compromisos:
+Respetar los derechos fundamentales de sus trabajadores, entendiéndose por éstos los consagrados en la Constitución Política de la República en su artículo 19, números 1°, 4°, 5°, 6°, 12°, y 16°, en conformidad al artículo 485 del Código del Trabajo. Asimismo, se compromete a respetar los derechos humanos, lo que significa que debe evitar dar lugar o contribuir a efectos adversos en los derechos humanos mediante sus actividades, productos o servicios, y subsanar esos efectos cuando se produzcan, de acuerdo con los Principios Rectores de Derechos Humanos y Empresas de Naciones Unidas.
+No ofrecer ni conceder, ni intentar ofrecer o conceder, sobornos, regalos, premios, dádivas o pagos, cualquiera fuese su tipo, naturaleza y/o monto, a ningún funcionario público en relación con su oferta, con el proceso de licitación pública, ni con la ejecución de el o los contratos que eventualmente se deriven de la misma, ni tampoco a ofrecerlas o concederlas a terceras personas que pudiesen influir directa o indirectamente en el proceso licitatorio, en su toma de decisiones o en la posterior adjudicación y ejecución del o los contratos que de ello se deriven.
+No intentar ni efectuar acuerdos o realizar negociaciones, actos o conductas que tengan por objeto influir o afectar de cualquier forma la libre competencia, cualquiera fuese la conducta o acto específico, y especialmente, aquellos acuerdos, negociaciones, actos o conductas de tipo o naturaleza colusiva, en cualquiera de sus tipos o formas.
+Revisar y verificar toda la información y documentación, que deba presentar para el presente proceso licitatorio, tomando todas las medidas que sean necesarias para asegurar su veracidad, integridad, legalidad, consistencia, precisión y vigencia. En virtud de lo anterior, el oferente reconoce y declara que la oferta presentada en el proceso licitatorio es una propuesta seria, debidamente analizada y estudiada en cuanto a su viabilidad e integridad, por lo que dicha propuesta es presentada en términos técnicos y económicos ajustados a la realidad, que garantizan la posibilidad de cumplir con la misma en las condiciones y oportunidad ofertadas.
+Ajustar su actuar y cumplir con los principios de legalidad, probidad y transparencia en el presente proceso licitatorio y en la ejecución del contrato.
+El oferente manifiesta, garantiza y acepta que conoce y respetará las reglas y condiciones establecidas en las bases de licitación, sus documentos integrantes y él o los contratos que de ellos se derivase.
+El oferente se obliga a tomar todas las medidas que fuesen necesarias para que las obligaciones anteriormente señaladas sean asumidas y cabalmente cumplidas por sus empleados, dependientes, asesores y/o agentes y, en general, todas las personas con que éste o éstos se relacionen directa o indirectamente en virtud o como efecto de la presente licitación, incluidos sus subcontratistas, haciéndose plenamente responsable de las consecuencias de su infracción, sin perjuicio de las responsabilidades individuales que también procediesen y/o fuesen determinadas por los organismos correspondientes.
+Una vez iniciado el procedimiento de contratación, el oferente se obliga a cumplir la prohibición contenida en el artículo 35 ter de la Ley N.° 19.886, esto es, no podrá mantener comunicación entre los participantes o interesados en el proceso de contratación, o entre eventuales interesados o participantes en él y las personas que desempeñen funciones en el organismo licitante que participen del proceso de adjudicación, independientemente de su calidad jurídica, en lo referido directa o indirectamente a tal proceso, salvo que se realice a través del Sistema de Información y Gestión de Compras Públicas administrado por la Dirección de Compras y Contratación Pública, y en la forma establecida en las bases de licitación, que asegure la participación e igualdad de todos los oferentes.
+Se deja constancia que cualquier incumplimiento por parte de los oferentes a lo dispuesto en el Pacto de Integridad indicado en esta cláusula, que sea observado durante el transcurso del respectivo proceso licitatorio, dará lugar a que sus respectivas ofertas sean declaradas inadmisibles. Asimismo, si se observare algún incumplimiento por parte del adjudicatario al presente Pacto de Integridad con posterioridad a la adjudicación y anterior al momento de contratación, dará pie a que la correspondiente adjudicación sea dejada sin efecto respecto del producto/servicio que le fue adjudicado, pudiendo readjudicarse la licitación, en atención a lo dispuesto en las presentes bases de licitación. Finalmente, si durante la ejecución del contrato se detectan situaciones en donde el proveedor contratado haya incumplido el presente Pacto de Integridad, se producirá el término anticipado del contrato en conformidad con la cláusula referida a Término Anticipado de Contrato, de estas bases de licitación.
+Tratamiento de datos personales por mandato
+En caso de que se encomiende al proveedor adjudicado el tratamiento de datos personales por cuenta de AGCID, éste deberá suscribir el “Contrato de encargo de tratamiento de datos personales para la prestación de bienes y servicios contratados de conformidad con la Ley N.º 19.886”, según el formato adjunto en el Anexo N.º 9, en donde se especifiquen las condiciones bajo las cuales se podrán utilizar esos datos, según el artículo 8 de la Ley N.°19.628, sobre Protección de la Vida Privada.
+En dicho contrato de mandato se indicará, a lo menos, la finalidad del tratamiento, el tipo de datos que se entrega al proveedor adjudicado (en calidad de mandatario), la duración del encargo y un procedimiento para la devolución de los datos y su eliminación efectiva por parte del proveedor adjudicado, al terminar ese contrato. Además, deberá prohibir expresamente el uso de dichos datos personales para fines distintos a los que persigue la AGCID (en calidad de órgano público mandante) y señalar expresamente que no se permite su comunicación a terceros.
+Subir
+10. Demandas ante el Tribunal de Contratación Pública
+No cuenta con demandas ante el Tribunal de Contratación Pública.
+Subir
+x

@@ -1,0 +1,21 @@
+RESUMEN – 4037-69-LE26
+============================================================
+Recomendación: DECIDIR
+Cierre: 30-10-2026 10:00
+Código: 4037-69-LE26
+Tipo: Licitación LE
+Organismo: I. Municipalidad de Fresia (Los Lagos)
+Qué piden: Servidor virtual hosting de munifresia.cl + soporte y mantención de la página web, 12 meses.
+Qué entregamos: Hosting en VPS propio + mantención remota del sitio (Kevin).
+Presupuesto: $ 9.000.000 (precio referencial)
+Neto sugerido: $ 5.370.000 (si incluye IVA) / $ 6.390.000 (si es neto)
+Cómo evalúan: Precio 40 % · Certificado de calidad y seguridad 15 % · Continuidad y tiempo de respuesta 20 % · Experiencia con organismos públicos 15 % · Sello Empresa Mujer 5 % · Formales 5 %
+Plazo: 12 meses
+Mantención: Sí: 12 meses de hosting + soporte (es la contratación completa). Paga ≈ $750.000/mes y amarra disponibilidad todo el año.
+Documentos a subir: Bases administrativas y técnicas (no leídas: captcha)
+Garantía / multas / pago: Sin garantía en ficha · pago 30 días
+Viajes / impresión: Remoto
+Riesgos: No sabemos qué 'certificado de calidad y seguridad' piden (puede ser ISO o similar: 15 %). Experiencia pública: 0 de 15 %. Responsabilidad de caída del sitio municipal. Puntaje máximo realista ≈ 65-70 % (sumamos Sello Mujer 5 %).
+Qué se leyó: Ficha completa. Bases NO (captcha).
+
+Falta: bases y anexos (piden captcha; no los puedo descargar). Ari: descárgalos en bases\ y avísame para llenar anexos.

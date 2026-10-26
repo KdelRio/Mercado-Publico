@@ -1,0 +1,21 @@
+RESUMEN – 4065-47-COT26
+============================================================
+Recomendación: DECIDIR
+Cierre: 27-10-2026 12:00 (2.º llamado 02-11 12:18)
+Código: 4065-47-COT26
+Tipo: Compra ágil
+Organismo: I. Municipalidad de Río Ibáñez (Aysén)
+Qué piden: Contratación de software para trámites en línea de la Dirección de Obras.
+Qué entregamos: Plataforma web de trámites en línea a medida (Kevin), entrega remota.
+Presupuesto: $ 6.864.400 (estimado)
+Neto sugerido: $ 4.095.600
+Cómo evalúan: Compra ágil sin pauta en ficha (en general gana precio)
+Plazo: 50 días
+Mantención: Revisar bases técnicas: puede pedir licencia/suscripción anual
+Documentos a subir: Cotización + lo que pidan las bases técnicas (no leídas)
+Garantía / multas / pago: Ficha indica multas/sanciones · pago contra recepción conforme
+Viajes / impresión: Remoto; entrega en Aysén solo si piden capacitación presencial
+Riesgos: Puede estar pensada para un SaaS existente (licencia). 50 días es justo para desarrollo a medida. Cierra mañana 12:00.
+Qué se leyó: Ficha completa. Adjuntos NO (requieren sesión).
+
+Falta: los adjuntos de la compra ágil requieren iniciar sesión en Mercado Público (el sistema me respondió 403). Ari: descárgalos en bases\ y revisa que la cotización calce con ellos antes de subir.

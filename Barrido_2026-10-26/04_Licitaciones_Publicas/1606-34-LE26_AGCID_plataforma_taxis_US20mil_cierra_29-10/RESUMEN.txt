@@ -1,0 +1,21 @@
+RESUMEN – 1606-34-LE26
+============================================================
+Recomendación: DECIDIR
+Cierre: 29-10-2026 15:00
+Código: 1606-34-LE26
+Tipo: Licitación LE
+Organismo: AGCID (proyecto CLETS, GEF/CAF) – Santiago
+Qué piden: Diseñar, desarrollar, probar e implementar plataforma digital interoperable (Módulo Operador + Módulo Ministerio) para registrar y validar recorridos de taxis colectivos, con piloto.
+Qué entregamos: Plataforma web a medida (Kevin), integración con plataformas del Ministerio, piloto y documentación.
+Presupuesto: US$ 20.000
+Neto sugerido: US$ 14.200 (si el monto incluye impuestos: US$ 11.930)
+Cómo evalúan: Técnico 85 % (exp. oferente 5, exp. tareas similares 15, exp. equipo 18, propuesta 20, detalle metodología 15, plan 10, inclusión 2) · Económico 10 % · Administrativo 5 %
+Plazo: 7 meses
+Mantención: No indica
+Documentos a subir: Bases y anexos (no leídos: captcha)
+Garantía / multas / pago: Sin garantía en ficha · pago 30 días
+Viajes / impresión: Remoto probable; Santiago si piden reuniones
+Riesgos: 38 % del puntaje es experiencia: sin OC nos dejaría cerca de 0 ahí. Puntaje máximo realista ≈ 55-60 %. No permite subcontratar. Integración con sistemas del Ministerio sin conocer su tecnología.
+Qué se leyó: Ficha completa. Bases y anexos NO (captcha).
+
+Falta: bases y anexos (piden captcha; no los puedo descargar). Ari: descárgalos en bases\ y avísame para llenar anexos.

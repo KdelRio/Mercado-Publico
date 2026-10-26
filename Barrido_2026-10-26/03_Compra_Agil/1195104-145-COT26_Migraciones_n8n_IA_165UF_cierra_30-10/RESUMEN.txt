@@ -1,0 +1,21 @@
+RESUMEN – 1195104-145-COT26
+============================================================
+Recomendación: DECIDIR
+Cierre: 30-10-2026 13:00 (2.º llamado 03-11 11:11)
+Código: 1195104-145-COT26
+Tipo: Compra ágil
+Organismo: Servicio Nacional de Migraciones
+Qué piden: Asesoría técnica y desarrollo de prueba de concepto de flujos n8n con IA (Microsoft Foundry) para el trámite de Residencia Temporal.
+Qué entregamos: PoC de automatización n8n + IA (Kevin), documentación y traspaso.
+Presupuesto: 164,92 UF (disponible)
+Neto sugerido: 98,4 UF
+Cómo evalúan: Sin pauta en ficha. 'No se considerarán ofertas sobre el precio publicado'. Piden anexos y documentos.
+Plazo: 30 días
+Mantención: No
+Documentos a subir: Cotización + anexos y documentos de los términos de referencia (no leídos)
+Garantía / multas / pago: Pago contra recepción conforme
+Viajes / impresión: Probable trabajo remoto en su ambiente; oficina en Santiago
+Riesgos: Requiere experiencia en n8n y Microsoft Foundry (Azure). Datos sensibles de migrantes: piden seguridad. Kevin debe confirmar que lo maneja.
+Qué se leyó: Ficha completa. TDR y anexos NO (requieren sesión).
+
+Falta: los adjuntos de la compra ágil requieren iniciar sesión en Mercado Público (el sistema me respondió 403). Ari: descárgalos en bases\ y revisa que la cotización calce con ellos antes de subir.

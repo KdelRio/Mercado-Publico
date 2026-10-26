@@ -1,0 +1,21 @@
+RESUMEN – 612-215-COT26
+============================================================
+Recomendación: DECIDIR
+Cierre: 28-10-2026 12:00 (2.º llamado 02-11 09:01)
+Código: 612-215-COT26
+Tipo: Compra ágil
+Organismo: Servicio Agrícola y Ganadero (SAG)
+Qué piden: Implementación de plataforma tecnológica y pilotos para modernizar el Sistema de Gestión de Plaguicidas, Fertilizantes y Bioestimulantes y el Portal de Datos (configuración, automatización, trazabilidad, componentes reutilizables).
+Qué entregamos: Desarrollo de pilotos y componentes web (Kevin), entrega digital.
+Presupuesto: 100 UTM (disponible)
+Neto sugerido: 59,7 UTM
+Cómo evalúan: Sin pauta en ficha
+Plazo: 46 días
+Mantención: Revisar Anexo 1: puede ser licencia de una herramienta low-code
+Documentos a subir: Anexo N°1 Solicitud de cotización (no leído) + cotización
+Garantía / multas / pago: Pago contra recepción conforme
+Viajes / impresión: Entrega digital
+Riesgos: El texto apunta a 'evaluar e incorporar capacidades' de una plataforma: puede ser licencia de software de terceros (regla: se descarta SaaS ajeno).
+Qué se leyó: Ficha completa. Anexo 1 NO (requiere sesión).
+
+Falta: los adjuntos de la compra ágil requieren iniciar sesión en Mercado Público (el sistema me respondió 403). Ari: descárgalos en bases\ y revisa que la cotización calce con ellos antes de subir.
