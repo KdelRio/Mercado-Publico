@@ -19,3 +19,11 @@ Riesgos: No sabemos qué 'certificado de calidad y seguridad' piden (puede ser I
 Qué se leyó: Ficha completa. Bases NO (captcha).
 
 Falta: bases y anexos (piden captcha; no los puedo descargar). Ari: descárgalos en bases\ y avísame para llenar anexos.
+
+=== ACTUALIZACIÓN 27-10 (bases leídas completas, escaneadas) ===
+Recomendación: NO.
+Requisitos OBLIGATORIOS (si falta uno, inadmisible): VPS en datacenter en Chile con certificación TIER III; SLA 99,98 % mensual; DDoS+WAF tipo Cloudflare; soporte 24x7x365 con escalamiento gerencial; 1 TB, 8 GB RAM, 6 núcleos; IP dedicada; SSL; especialista web con CV (2 h/mes).
+SLA: incidente crítico respuesta 60 min 24/7, resolución 4 h. Descuentos 5-30 % de la cuota bajo 99,98 %; multas por incidente. Migración de sitio + CORREO institucional en 15 días y antes del 26-12.
+Evaluación: precio 40 · ISO 27001/9001/27017/27018/22301 15 (no tenemos: 0) · tiempo de respuesta + datacenters 20 · experiencia con organismos públicos 15 (0) · Sello Mujer 5 · formales 5. Puntaje mínimo 60.
+Nuestro máximo realista ≈ 70 solo si somos los más baratos; un hosting con ISO y experiencia municipal saca ≈ 95.
+Es revender hosting de un tercero + guardia 24/7 con multas: soporte pesado (regla de descarte).
