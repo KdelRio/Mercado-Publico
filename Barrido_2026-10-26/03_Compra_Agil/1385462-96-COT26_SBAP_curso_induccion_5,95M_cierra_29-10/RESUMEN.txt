@@ -20,3 +20,10 @@ Qué se leyó: Ficha completa. Adjuntos NO (requieren sesión).
 
 Falta: los adjuntos de la compra ágil requieren iniciar sesión en Mercado Público (el sistema me respondió 403). Ari: descárgalos en bases\ y revisa que la cotización calce con ellos antes de subir.
 ENVIAR\ tiene la cotización (DOCX y PDF) SIN firma: confirmar antes de firmar.
+
+=== ACTUALIZACIÓN 27-10 (TDR leído, 22 págs) ===
+Recomendación: NO.
+Alcance: 3 paquetes SCORM, ~20 lecciones interactivas, 8 video-podcast animados de 8-12 min, ~10 tutoriales animados, 8 juegos, 29 insignias, infografías/documentos con QR, manual imprimible ilustrado, reuniones semanales; del 4-11 al 11-12. Multas 1 %/día.
+DEMO OBLIGATORIO funcionando al cierre (29-10 08:00) con 9 elementos (escena, mapa, cápsula podcast con subtítulos, juego, evaluación, barra de progreso, insignia, infografía con QR). Si falta uno: inadmisible.
+Evaluación: precio 28 · técnica 24 · demo 24 · experiencia 24 (0 para nosotros).
+$5,95 M bruto para 2-3 meses de trabajo de dos personas comprimidos en 5 semanas: no paga las horas.

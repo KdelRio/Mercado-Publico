@@ -20,3 +20,9 @@ Qué se leyó: Ficha completa. Adjuntos NO (requieren sesión).
 
 Falta: los adjuntos de la compra ágil requieren iniciar sesión en Mercado Público (el sistema me respondió 403). Ari: descárgalos en bases\ y revisa que la cotización calce con ellos antes de subir.
 ENVIAR\ tiene la cotización (DOCX y PDF) SIN firma: confirmar antes de firmar.
+
+=== ACTUALIZACIÓN 27-10 (especificaciones leídas) ===
+REQUISITO EXCLUYENTE: integrante con título en Ciencias Sociales o Educación + 3 años de experiencia en Educación Parvularia (sala cuna/niveles medios o docencia en la carrera), con CV (Anexo 4) y respaldos. Además el documento P2 debe ser de un(a) académico(a) con Magíster en Educación/Educación Parvularia/neurociencia infantil y experiencia en formación docente.
+Piden: 4 cápsulas de 4 min (motion graphics o registro en aula) + documento técnico de 10 págs + video de 5 min hecho con IA (fotorrealista, lip-sync, sala cuna chilena diversa).
+Evaluación: precio 95 % + prácticas medioambientales 5 %. Sin multas. Pago en 1 cuota. 20 días hábiles.
+Sin una educadora de párvulos con esos requisitos, la oferta queda fuera. No subir así.
