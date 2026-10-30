@@ -1,0 +1,16 @@
+1004823-120-COT26 · CFT Estatal Región de Coquimbo · Sección web Inclusión y Género (proyecto CRC23101)
+Cierra: 30-10-2026 09:00 · Presupuesto disponible: $1.200.000 IVA incluido · Ofertas recibidas al 30-10 02:40: 29
+Sin pauta de evaluación publicada. No pide anexos.
+
+OFERTA PREPARADA
+- Neto $716.000 · IVA $136.040 · TOTAL $852.040 (71 % del neto disponible)
+- Portal: 1 unidad -> valor unitario 716.000 · total debe quedar $852.040
+- Detalle (234/255): Diseño, desarrollo e implementación de la sección web Inclusión y Género: carrusel, 5 accesos, páginas interiores, noticias, campañas, banner de denuncia, responsivo, carga de contenidos, cartilla y guía diagramadas. 30 días.
+
+ARCHIVO A SUBIR: ENVIAR/Cotizacion_Propuesta_1004823-120-COT26_StudiosConari.pdf (4 págs., firmada por María)
+
+PENDIENTE / RIESGOS
+- No sabemos en qué plataforma está cftcq.cl (WordPress u otra). La oferta dice "compatible con la plataforma del sitio"
+  y pide usuario de administración. Verificar antes de aceptar OC.
+- Experiencia citada: studiosconari.cl y manecist.github.io/Matrona -> confirmar que ambos los hizo el equipo.
+- Generador: plantilla_conari/cftcq_conari.py <carpeta> <neto>
