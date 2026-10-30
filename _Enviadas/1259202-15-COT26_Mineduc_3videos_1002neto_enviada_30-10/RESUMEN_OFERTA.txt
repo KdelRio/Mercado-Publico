@@ -24,3 +24,6 @@ NOTAS
 - Pago a 30 días desde factura con recepción conforme + F30-1 o DJ simple de no tener trabajadores.
 - Multa 3 % por día hábil de atraso (desde el 4.º día). Garantía técnica 30 días; correcciones en 3 días hábiles.
 - Generador: plantilla_conari/mineduc_conari.py (cambiar NETO_VIDEO si cambia el precio).
+
+ENVIADA: 30-10-2026 02:13 · Monto total $1.192.380 · Responsable en portal: Kevin Alexis del Río Morgado
+Comprobante: ENVIAR/Comprobante_envio_1259202-15-COT26.pdf
