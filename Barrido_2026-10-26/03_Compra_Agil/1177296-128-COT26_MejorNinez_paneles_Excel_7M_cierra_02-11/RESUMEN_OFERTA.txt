@@ -1,0 +1,19 @@
+1177296-128-COT26 · Mejor Niñez · Instrumentos "Ruta de la Familia" y "Monitoreo FAE" (paneles Excel)
+Cierra: 02-11-2026 10:00 (2.º llamado 07-11) · Presupuesto: $7.000.000 impuestos incluidos · Evaluación: precio 100 % (empate: la primera recibida)
+
+OFERTA PREPARADA
+- Neto $3.000.000 · IVA $570.000 · TOTAL $3.570.000 (51 %)
+- Portal: 1 unidad -> valor unitario 3.000.000 · total debe quedar $3.570.000
+- Detalle (246/255): Consultoría 60 días: diagnóstico y consulta a usuarios, optimización Excel con anti-duplicados y diccionario de datos, indicadores con fichas, paneles semáforo por instrumento y panel integrado, manuales, capacitaciones grabadas y cápsulas.
+
+SUBIR
+1. ENVIAR/Propuesta_Tecnica_Economica_1177296-128-COT26_StudiosConari.pdf (5 págs.: oferta, metodología, Gantt, equipo, protocolo)
+2. ENVIAR/CV_y_Experiencia_Equipo_1177296-128-COT26_StudiosConari.pdf
+3. RESPALDO DE EXPERIENCIA (lo agrega Kevin): contrato o finiquito DailyFresh + certificado de cotizaciones AFP 2022-2025
+
+RIESGO PRINCIPAL
+- Bases exigen experiencia certificada "en el ámbito de las políticas públicas, programas sociales o servicios de infancia".
+  DailyFresh es privado -> pueden desestimar. Decisión de postular igual tomada por Ari el 30-10 (estimado 30-40 % de ser admitida).
+- Verificar antes de enviar: frase de María "experiencia en salud pública y programas de apoyo a la infancia" y medidas del
+  protocolo (discos cifrados, contraseñas) -> deben ser ciertas.
+- Generador: plantilla_conari/mejorninez_conari.py <carpeta> <neto>
