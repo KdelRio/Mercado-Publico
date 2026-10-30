@@ -94,9 +94,12 @@ def anexo(path,num,titulo,body):
 
 def a1(w): return [table([["Ítem","Valor impuesto incluido"]]+[[f"Video {i}",f(video_iva)] for i in (1,2,3)]+[["Total",f(total)]],[w-6*cm,6*cm],bold_last=1,right_cols=(1,)),
     Spacer(1,8),callout("Detalle",f"Valor neto por video {f(NETO_VIDEO)} + IVA 19 %. Total neto {f(neto)}, IVA {f(iva)}, total {f(total)}. Factura afecta a IVA.",w)]
-def a2(w): return [table([["Oferente cuenta con programas de integridad y ética empresarial (compliance) conocido por su personal","Marcar con X"],["Sí",""],["No","X"]],[w-4*cm,4*cm]),
-    Spacer(1,8),table([["N°","Vía por la cual se dio a conocer el programa","Medio de verificación"],["1","—","—"],["2","—","—"],["3","—","—"]],[1*cm,(w-1*cm)/2,(w-1*cm)/2]),
-    Spacer(1,8),callout("Declaración","Studios Conari SpA declara expresamente que, a la fecha, no cuenta con un programa de integridad y ética empresarial (compliance) formal. Acepta el pacto de integridad de la presente compra ágil.",w)]
+def a2(w): return [table([["Oferente cuenta con programas de integridad y ética empresarial (compliance) conocido por su personal","Marcar con X"],["Sí","X"],["No",""]],[w-4*cm,4*cm]),
+    Spacer(1,8),table([["N°","Vía por la cual se dio a conocer el programa","Medio de verificación"],
+     ["1","Correo electrónico enviado el 07-10-2026 a todo el personal (socios administradores), con el programa adjunto y solicitud de confirmación de lectura.","Impresión del correo con las respuestas «Recibido y leído» de cada persona (archivo Correo_difusion_Programa_Integridad.pdf)."],
+     ["2","Entrega del programa y firma del Acta de recepción y conocimiento (Anexo A del programa), 07-10-2026.","Acta firmada por cada persona, incluida en el programa (archivo Programa_Integridad_Studios_Conari.pdf, página 4)."],
+     ["3","Inducción a quienes se incorporen y sesión anual de capacitación, según el punto 4 del programa.","Registro de asistencia (se genera en cada sesión)."]],[1*cm,(w-1*cm)/2,(w-1*cm)/2]),
+    Spacer(1,8),callout("Documentos adjuntos","Programa de Integridad y Ética Empresarial de Studios Conari SpA, versión 1.0, aprobado el 07-10-2026 (incluye Código de Ética y Conducta, modelo de prevención de delitos según Leyes N° 20.393 y N° 21.595, canal de denuncias y Acta de recepción firmada), y correo de difusión con confirmaciones de lectura.",w)]
 def a3(w): return [table([["Campo","Dato"],["Nombre de la empresa o contratista","Studios Conari SpA"],["RUT de la empresa","78.465.252-1"],
     ["Nombre contacto","María Inés Cisterna Escobar"],["Dirección comercial","Colo Colo 379, oficina 706, Concepción, Región del Biobío"],
     ["Correo electrónico","postulaciones@studiosconari.cl"],["Teléfonos móviles","+56 9 8759 8952"]],[6.5*cm,w-6.5*cm])]
