@@ -7,3 +7,7 @@ Estilo tomado del *Dossier Blanco*: Noto Sans, azul marino #15294a / #233d63, do
 - `assets/`: logo y fuentes Noto Sans.
 
 Nota: `conari_pdf.py` busca las fuentes y el logo en una carpeta `conari` junto a la carpeta del script; ajustar la ruta `A` si se mueve.
+
+## Firmas
+- `assets/firma_maria.png`: firma de María Inés Cisterna (autorizada por ella el 30-10-2026 para documentos de oferta).
+- `assets/firma_kevin.png`: firma de Kevin del Río. Usar solo con acuerdo explícito de Kevin.

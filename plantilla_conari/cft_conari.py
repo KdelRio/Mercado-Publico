@@ -68,5 +68,5 @@ E.append(Spacer(1,6))
 E+=bullets(["Trabajo 100 % remoto; coordinación por correo y videollamada con la Unidad de Vinculación con el Medio.",
  "Los derechos de uso de las cuatro cápsulas quedan para el CFT para difusión institucional sin límite de plazo; la música se entrega con licencia para ese uso.",
  "Iniciativa sustentable: trabajo digital y remoto, sin traslados ni material impreso."])
-E.append(signature("María Inés Cisterna Escobar","Socia fundadora y administradora","Studios Conari SpA · RUT 78.465.252-1"))
+E.append(signature("María Inés Cisterna Escobar","Socia fundadora y administradora","Studios Conari SpA · RUT 78.465.252-1",img=os.path.join(A,"firma_maria.png")))
 doc.build(E); print("ok")

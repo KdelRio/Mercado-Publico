@@ -100,6 +100,11 @@ def cover(kicker,title,subtitle,info,uso,foot,width):
          cards(info,width,cols=len(info)),Spacer(1,1.2*cm),callout(uso[0],uso[1],width),Spacer(1,1.2*cm),
          Paragraph(foot,sty["cfoot"]),NextPageTemplate("page"),PageBreak()]
     return out
-def signature(name,role,company):
-    return KeepTogether([Spacer(1,1.4*cm),Paragraph("_______________________________",sty["body"]),
+def signature(name,role,company,img=None):
+    head=[Spacer(1,0.6*cm)]
+    if img:
+        from PIL import Image as PI
+        iw,ih=PI.open(img).size; w=3.4*cm; im=Image(img,w,w*ih/iw); im.hAlign="LEFT"; head+=[im,Spacer(1,-4)]
+    else: head=[Spacer(1,1.4*cm)]
+    return KeepTogether(head+[Paragraph("_______________________________",sty["body"]),
         Paragraph(f"<b>{name}</b>",sty["body"]),Paragraph(role,sty["small"]),Paragraph(company,sty["small"])])
