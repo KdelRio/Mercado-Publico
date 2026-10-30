@@ -14,3 +14,6 @@ PENDIENTE / RIESGOS
   y pide usuario de administración. Verificar antes de aceptar OC.
 - Experiencia citada: studiosconari.cl y manecist.github.io/Matrona -> confirmar que ambos los hizo el equipo.
 - Generador: plantilla_conari/cftcq_conari.py <carpeta> <neto>
+
+ENVIADA: 30-10-2026 02:29 · Monto total $595.000 · Responsable en portal: Kevin Alexis del Río Morgado
+Comprobante: ENVIAR/Comprobante_envio_1004823-120-COT26.pdf
