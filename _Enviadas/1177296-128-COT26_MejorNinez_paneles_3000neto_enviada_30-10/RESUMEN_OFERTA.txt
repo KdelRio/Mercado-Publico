@@ -17,3 +17,6 @@ RIESGO PRINCIPAL
 - Verificar antes de enviar: frase de María "experiencia en salud pública y programas de apoyo a la infancia" y medidas del
   protocolo (discos cifrados, contraseñas) -> deben ser ciertas.
 - Generador: plantilla_conari/mejorninez_conari.py <carpeta> <neto>
+
+ENVIADA: 30-10-2026 02:59 · Monto total $3.570.000 · Responsable en portal: Kevin Alexis del Río Morgado
+Comprobante: ENVIAR/Comprobante_envio_1177296-128-COT26.pdf
