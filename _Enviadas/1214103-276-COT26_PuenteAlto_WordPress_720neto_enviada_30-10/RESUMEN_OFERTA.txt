@@ -11,3 +11,6 @@ SUBIR: ENVIAR/Cotizacion_Propuesta_1214103-276-COT26_StudiosConari.pdf y ENVIAR/
 
 COSTOS A ADELANTAR SI GANAMOS: GeneratePress Premium (~US$59 + IVA, confirmar precio vigente) + hosting 12 meses (~$50.000 + IVA, a nombre de la Corporación)
 Generador: plantilla_conari/puentealto_conari.py <carpeta>
+
+ENVIADA: 30-10-2026 · Monto total $856.800 · Responsable en portal: Kevin Alexis del Río Morgado
+Comprobante: ENVIAR/Comprobante_envio_1214103-276-COT26.pdf
