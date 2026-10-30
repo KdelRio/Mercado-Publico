@@ -1,0 +1,15 @@
+1004823-122-COT26 · CFT Estatal Región de Coquimbo · Sección web Vinculación con el Medio (proyecto CRC 2495)
+Cierra: 30-10-2026 09:00 · Presupuesto disponible: $1.000.000 IVA incluido · Ofertas recibidas: 30
+Sin pauta publicada. Requisitos: propuesta técnica, cotización total, portafolio, experiencia web, plazo, factura.
+
+OFERTA PREPARADA
+- Neto $420.000 · IVA $79.800 · TOTAL $499.800 (50 % del presupuesto)
+- Portal: 1 unidad -> valor unitario 420.000 · total debe quedar $499.800
+- Detalle (233/255): Diseño, desarrollo e implementación de la sección web Vinculación con el Medio: política y documentos, convenios, programas por año, innovación, red de titulados, audiovisual, responsivo, carga de contenidos y guía. 30 días.
+- Subir SOLO: ENVIAR/Cotizacion_Propuesta_1004823-122-COT26_StudiosConari.pdf (4 págs., firmada por María)
+
+RIESGOS
+- Plataforma del sitio desconocida (igual que la -120).
+- "Ajustes hasta la aprobación final": la oferta lo limita al alcance de las especificaciones.
+- Portafolio: studiosconari.cl y manecist.github.io/Matrona -> confirmar que los hizo el equipo.
+- Generador: plantilla_conari/cftcq_vcm_conari.py <carpeta> <neto>
