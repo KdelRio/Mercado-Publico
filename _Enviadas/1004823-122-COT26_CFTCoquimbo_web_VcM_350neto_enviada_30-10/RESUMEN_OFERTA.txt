@@ -13,3 +13,6 @@ RIESGOS
 - "Ajustes hasta la aprobación final": la oferta lo limita al alcance de las especificaciones.
 - Portafolio: studiosconari.cl y manecist.github.io/Matrona -> confirmar que los hizo el equipo.
 - Generador: plantilla_conari/cftcq_vcm_conari.py <carpeta> <neto>
+
+ENVIADA: 30-10-2026 02:39 · Monto total $416.500 · Responsable en portal: Kevin Alexis del Río Morgado
+Comprobante: ENVIAR/Comprobante_envio_1004823-122-COT26.pdf
