@@ -1,0 +1,13 @@
+1214103-276-COT26 · Corporación Cultural Municipal de Puente Alto · Mantención sitio actual + nuevo WordPress + hosting + 3 mantenciones
+Cierra: 02-11-2026 15:00 (2.º 07-11) · Presupuesto máximo $840.336 neto / $1.000.000 IVA incl. · Sin pauta publicada · 3 ofertas al 30-10
+
+OFERTA PREPARADA (precio confirmado por Ari el 30-10)
+- a) Sitio actual $150.000 · b) Sitio nuevo+plantilla+capacitación $300.000 · c) Hosting $50.000 · d) 3 mantenciones $220.000
+- Neto $720.000 · IVA $136.800 · TOTAL $856.800 (86 % del máximo)
+- Portal: si hay 1 línea -> valor unitario 720.000. Si hay 4 líneas, usar los montos a-d. Total debe quedar $856.800.
+- Detalle (237/255): Mantención del sitio actual en la transición, nuevo sitio WordPress con plantilla premium GeneratePress licenciada, migración, responsivo, capacitación y guía, hosting 12 meses con SSL y respaldos, y 3 mantenciones (meses 2, 4 y 6).
+
+SUBIR: ENVIAR/Cotizacion_Propuesta_1214103-276-COT26_StudiosConari.pdf y ENVIAR/Acuerdo_Confidencialidad_1214103-276-COT26_StudiosConari.pdf
+
+COSTOS A ADELANTAR SI GANAMOS: GeneratePress Premium (~US$59 + IVA, confirmar precio vigente) + hosting 12 meses (~$50.000 + IVA, a nombre de la Corporación)
+Generador: plantilla_conari/puentealto_conari.py <carpeta>
