@@ -3,8 +3,8 @@ Cierra: 30-10-2026 09:00 · Presupuesto disponible: $1.000.000 IVA incluido · O
 Sin pauta publicada. Requisitos: propuesta técnica, cotización total, portafolio, experiencia web, plazo, factura.
 
 OFERTA PREPARADA
-- Neto $420.000 · IVA $79.800 · TOTAL $499.800 (50 % del presupuesto)
-- Portal: 1 unidad -> valor unitario 420.000 · total debe quedar $499.800
+- Neto $350.000 · IVA $66.500 · TOTAL $416.500 (42 % del presupuesto; bajado desde $420.000)
+- Portal: 1 unidad -> valor unitario 350.000 · total debe quedar $416.500
 - Detalle (233/255): Diseño, desarrollo e implementación de la sección web Vinculación con el Medio: política y documentos, convenios, programas por año, innovación, red de titulados, audiovisual, responsivo, carga de contenidos y guía. 30 días.
 - Subir SOLO: ENVIAR/Cotizacion_Propuesta_1004823-122-COT26_StudiosConari.pdf (4 págs., firmada por María)
 
