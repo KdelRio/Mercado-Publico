@@ -3,8 +3,8 @@ Cierra: 30-10-2026 09:00 · Presupuesto disponible: $1.200.000 IVA incluido · O
 Sin pauta de evaluación publicada. No pide anexos.
 
 OFERTA PREPARADA
-- Neto $716.000 · IVA $136.040 · TOTAL $852.040 (71 % del neto disponible)
-- Portal: 1 unidad -> valor unitario 716.000 · total debe quedar $852.040
+- Neto $500.000 · IVA $95.000 · TOTAL $595.000 (bajado desde $716.000 neto para competir por precio)
+- Portal: 1 unidad -> valor unitario 500.000 · total debe quedar $595.000
 - Detalle (234/255): Diseño, desarrollo e implementación de la sección web Inclusión y Género: carrusel, 5 accesos, páginas interiores, noticias, campañas, banner de denuncia, responsivo, carga de contenidos, cartilla y guía diagramadas. 30 días.
 
 ARCHIVO A SUBIR: ENVIAR/Cotizacion_Propuesta_1004823-120-COT26_StudiosConari.pdf (4 págs., firmada por María)
