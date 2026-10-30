@@ -62,9 +62,22 @@ E.append(cards([("María Inés Cisterna","Socia fundadora y directora creativa. 
  ("Kevin del Río","Socio fundador y director técnico. Edición, postproducción, subtítulos y control de calidad. Ingeniero en Informática (Duoc UC 2023)."),
  ("María José Cañas","Equipo de apoyo. Locución en off.")],w))
 E.append(Spacer(1,10))
-E+=section("06","Antecedentes","Muestra de capacidad y condiciones",None)
-E.append(callout("Muestra de capacidad del equipo","Studios Conari SpA es una empresa constituida en julio de 2026. Las siguientes piezas son muestras de capacidad del equipo, no trabajos realizados para clientes: cápsula educativa animada (manecist.github.io/Matrona/capsula.html) y portafolio del equipo (studiosconari.github.io).",w))
+E.append(PageBreak())
+E+=section("06","Experiencia","Trabajos audiovisuales publicados","Cápsulas educativas e informativas animadas, de autoría de María Inés Cisterna (directora creativa del equipo)")
+E.append(table([["N°","Pieza","Año","Enlace"],
+ ["1","Cápsula educativa de lactancia para Chile Crece Contigo (Andacollo)","2020",'<link href="https://manecist.github.io/Matrona/capsula.html"><u>manecist.github.io/Matrona/capsula.html</u></link>'],
+ ["2","¿Cómo guardo mi leche? (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_01_como_guardo_mi_leche.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_01_como_guardo_mi_leche.mp4</u></link>'],
+ ["3","Masaje Shantala paso a paso (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_02_masaje_shantala.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_02_masaje_shantala.mp4</u></link>'],
+ ["4","Sacar los chanchitos y aliviar gases (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_03_sacar_chanchitos.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_03_sacar_chanchitos.mp4</u></link>'],
+ ["5","Sueño seguro (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_04_sueno_seguro.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_04_sueno_seguro.mp4</u></link>'],
+ ["6","¿Ya es hora de ir a la maternidad? (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_05_hora_de_ir_a_la_maternidad.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_05_hora_de_ir_a_la_maternidad.mp4</u></link>'],
+ ["7","¿Qué es el PAP? (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_06_que_es_el_pap.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_06_que_es_el_pap.mp4</u></link>'],
+ ["8","Píldora del día después (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_07_pildora_del_dia_despues.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_07_pildora_del_dia_despues.mp4</u></link>'],
+ ["9","Mitos de la lactancia (cápsula animada)","2026",'<link href="https://manecist.github.io/Matrona/capsula/videos/Capsula_08_mitos_de_la_lactancia.mp4"><u>manecist.github.io/Matrona/capsula/videos/Capsula_08_mitos_de_la_lactancia.mp4</u></link>']],[0.9*cm,6.4*cm,1.3*cm,w-8.6*cm]))
 E.append(Spacer(1,6))
+E.append(callout("Nota","Studios Conari SpA se constituyó en julio de 2026. Las piezas listadas son trabajos publicados del equipo: la cápsula 2020 fue realizada para Chile Crece Contigo y las ocho cápsulas 2026 son de producción propia, de carácter informativo y educativo, con animación, música y subtítulos. Todas pueden verse en manecist.github.io/Matrona/capsula.html.",w))
+E.append(Spacer(1,2))
+E+=section("07","Condiciones","Condiciones de la oferta",None)
 E+=bullets(["Trabajo 100 % remoto; coordinación por correo y videollamada con la Unidad de Vinculación con el Medio.",
  "Los derechos de uso de las cuatro cápsulas quedan para el CFT para difusión institucional sin límite de plazo; la música se entrega con licencia para ese uso.",
  "Iniciativa sustentable: trabajo digital y remoto, sin traslados ni material impreso."])

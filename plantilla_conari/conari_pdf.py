@@ -101,10 +101,10 @@ def cover(kicker,title,subtitle,info,uso,foot,width):
          Paragraph(foot,sty["cfoot"]),NextPageTemplate("page"),PageBreak()]
     return out
 def signature(name,role,company,img=None):
-    head=[Spacer(1,0.6*cm)]
+    head=[Spacer(1,0.2*cm)]
     if img:
         from PIL import Image as PI
-        iw,ih=PI.open(img).size; w=3.4*cm; im=Image(img,w,w*ih/iw); im.hAlign="LEFT"; head+=[im,Spacer(1,-4)]
+        iw,ih=PI.open(img).size; w=2.6*cm; im=Image(img,w,w*ih/iw); im.hAlign="LEFT"; head+=[im,Spacer(1,-4)]
     else: head=[Spacer(1,1.4*cm)]
     return KeepTogether(head+[Paragraph("_______________________________",sty["body"]),
         Paragraph(f"<b>{name}</b>",sty["body"]),Paragraph(role,sty["small"]),Paragraph(company,sty["small"])])
