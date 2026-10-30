@@ -9,7 +9,7 @@ from reportlab.lib.units import cm
 from reportlab.lib.enums import TA_CENTER, TA_RIGHT
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-A=os.path.join(os.path.dirname(__file__),"..","conari")
+A=os.path.join(os.path.dirname(os.path.abspath(__file__)),"assets")
 pdfmetrics.registerFont(TTFont("NS",os.path.join(A,"NotoSans-Regular.ttf")))
 pdfmetrics.registerFont(TTFont("NSB",os.path.join(A,"NotoSans-Bold.ttf")))
 pdfmetrics.registerFont(TTFont("NSI",os.path.join(A,"NotoSans-Italic.ttf")))

@@ -1,0 +1,24 @@
+1259202-15-COT26 · Subsecretaría de Educación · Producción audiovisual y gráfica (3 videos)
+Cierra: 30-10-2026 16:00 · Presupuesto estimado: $3.500.000 · Evaluación: precio 98 %, integridad 1 %, sustentabilidad 1 %
+
+OFERTA PREPARADA (30-10-2026)
+- Neto por video $334.000 · 3 videos = $1.002.000 neto · IVA $190.380 · TOTAL $1.192.380
+- Anexo 1: $397.460 por video IVA incluido · total $1.192.380
+- En el portal: si la línea tiene 3 unidades -> valor unitario 334.000; si tiene 1 unidad -> 1.002.000.
+  El total del portal debe quedar en $1.192.380 con IVA (igual al Anexo 1), si no la oferta se descarta.
+- Detalle (≤255): 3 videos institucionales horizontales de hasta 1:30: guion co-creado, edición, montaje, color, sonido, música con licencia, animación 2D, piezas cuadradas y verticales para redes, archivos fuente e informe final. Entrega hasta el 06-12-2026.
+
+ARCHIVOS A SUBIR (ENVIAR/)
+1. Cotizacion_Propuesta_1259202-15-COT26_StudiosConari.pdf (4 págs.)
+2. Anexo1_Oferta_economica_1259202-15-COT26.pdf
+3. Anexo2_Integridad_1259202-15-COT26.pdf (marcado NO: no tenemos programa formal; vale 1 %)
+4. Anexo3_Datos_proveedor_1259202-15-COT26.pdf
+Todos firmados por María Inés Cisterna Escobar.
+
+NOTAS
+- No exige rodaje: "El Ministerio prestará apoyo con imágenes y logos". Oferta dice que no incluye rodaje ni traslados.
+- Antecedente: mismo comprador, 1259202-8-COT26 (ago-2026, presup. $5.000.000, 10 ofertas): ganó Videograma SpA con $3.499.999;
+  la más baja (Fokus, $2.380.000) no ganó, probablemente por documentos incompletos. Subir todos los anexos.
+- Pago a 30 días desde factura con recepción conforme + F30-1 o DJ simple de no tener trabajadores.
+- Multa 3 % por día hábil de atraso (desde el 4.º día). Garantía técnica 30 días; correcciones en 3 días hábiles.
+- Generador: plantilla_conari/mineduc_conari.py (cambiar NETO_VIDEO si cambia el precio).
